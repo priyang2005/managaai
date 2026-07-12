@@ -1,0 +1,6 @@
+{
+  "name": "ManageAI",
+  "description": "An AI-powered dashboard for project managers to analyze work patterns, identify team bottlenecks, and receive actionable productivity recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
